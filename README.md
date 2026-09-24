@@ -48,3 +48,7 @@ Update with this configuration:
 ```
 
 Restart Claude and you should see the tools become available. 
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
